@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "a59a4b2ee4739169",
+    "type": "split",
+    "children": [
+      {
+        "id": "637c8d659c6ee0a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2bc04192d335333b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unsupervised learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unsupervised learning"
+            }
+          },
+          {
+            "id": "f3249abab1e36831",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4d4e02e3dbc84a97",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7746b03fc2a97d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c93580e9adad917",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2bc96f40d42cee83",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b9cf9b2bd0ab5406",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d8e4eb5fbfd0cc18",
+    "type": "split",
+    "children": [
+      {
+        "id": "a509ba61cf9346da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "578d5a0919aa989d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Unsupervised learning.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Unsupervised learning"
+            }
+          },
+          {
+            "id": "35c150e15fd1c520",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Unsupervised learning.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Unsupervised learning"
+            }
+          },
+          {
+            "id": "f586a163c7ab7ce4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "13ef9ee4b371f182",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Unsupervised learning.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Unsupervised learning"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "2c93580e9adad917",
+  "lastOpenFiles": [
+    "Supervised Learning.md",
+    "Session 2-Symbolic.pdf",
+    "Session 1-Symbolic.pdf",
+    "Neural Networks - Deep Learning.pdf",
+    "Neural Networks - Deep Learning.md",
+    "Deep Learning.md",
+    "Classification.md",
+    "Unsupervised learning.md",
+    "Symbolic AI/Session 2.md",
+    "Symbolic AI/Session 1.md",
+    "Documents/CNN-RNN.pdf"
+  ]
+}
